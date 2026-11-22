@@ -2,7 +2,7 @@
 .history/
 .venv/
 .vscode/
-.env
+secret
 
 # Python
 __pycache__/
